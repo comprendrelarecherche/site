@@ -81,3 +81,5 @@ Calhoun JG, Ramiah K, Weist EM, Shortell SM. Development of a core competency mo
 
 * **<a href="http://jamanetwork.com/journals/jama/fullarticle/1674245" target="_blank">The Inevitable Application of Big Data to Health Care</a>** : article (en anglais)
 
+* **<a href="https://www.sciencepresse.qc.ca/actualite/detecteur-rumeurs/2020/03/19/chiffres-epidemie-conseils-detecteur-rumeurs" target="_blank">Chiffres d’une épidémie : les conseils du Détecteur de rumeurs</a>** : article. Beaucoup de chiffres circulent dans les médias populaires lors d’une épidémie. **<a href="https://www.sciencepresse.qc.ca/agence" target="_blank">L'Agence Science-Presse</a>** nous offre quelques définitions, astuces et mises en garde pour l’interpretation de ces chiffres.
+
