@@ -63,6 +63,8 @@ Une mesure clé pour assurer l’acceptabilité sur le plan éthique d’un proj
 Creswell JW. Educational research : Planning, conducting and evaluating quantitative and qualitative research. Upper Saddle River, NJ : Prentice Hall ; 2002.
 
 ## Ressources supplémentaires
+* **<a href="https://www.praticsante.chaire.ulaval.ca/wp-content/uploads/2020/02/Guide_PPP_MAN_PNS_MP_F-compress%C3%A9-2.pdf" target="_blank">Guide Patient-Citoyen Partenaire en Recherche</a>**: <a href="http://unitesoutiensrapqc.ca/" target="_blank">L'Unité de soutien SRAP du Québec</a> offre un guide s'adressant aux patients-citoyens qui voudraient participer à la recherche en santé. Le guide présente les bases de la recherche axée sur le patient, dans le but de préparer les patients à leurs partenariats de recherche.
+
 * **<a href="https://osf.io/7vypr/" target="_blank">Glossaire de termes utilisés en recherche</a>**: un glossaire developpé par la <a href="https://soutiensrapmetho.ca/" target="_blank">composante Développements méthodologiques</a> qui fournit des définitions pour les termes de recherche fréquemment utlisés.
 
 * **<a href="http://cihr-irsc.gc.ca/f/documents/cihr_jargon_buster-fr.pdf" target="_blank">Explication du jargon - termes de recherche en santé</a>** : un glossaire élaboré par les IRSC qui fournit des définitions en langage courant des termes fréquemment utilisés dans la recherche en santé.
