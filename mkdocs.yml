@@ -1,0 +1,38 @@
+site_name: Comprendre la recherche
+
+site_description: Comprendre la recherche offre une introduction aux étapes de la recherche et aux concepts fondamentaux de la recherche en santé, comme l'éthique de la recherche, les revues de la littérature, l'application des connaissances, les méthodes et les devis de recherche (méthodes quantitatives, qualitatives et méthodes mixtes), ainsi que l'approche participative de la recherche. Notre objectif est d'aider les partenaires de recherche tels que les patients, les gestionnaires et les professionnels de la santé à développer un langage commun pour préparer leurs partenariats et faciliter le succès des initiatives de recherche axées sur les patients.
+
+copyright:  Droits d'auteur 2020 Comprendre la recherche - ce contenu est disponible sous <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>
+
+nav:
+    - Accueil: index.md
+    - Recherche: recherche_fr.md
+    - Revues de la littérature: revues_litterature_fr.md
+    - Méthodologie: 
+        - Aperçu de la méthodologie: methodologie_fr.md
+        - Recherche quantitative: methodologie/recherche_quantitative_fr.md
+        - Recherche qualitative: methodologie/recherche_qualitative_fr.md
+        - Méthodes mixtes: methodologie/methodes_mixtes_fr.md
+        - Recherche participative: methodologie/recherche_participative_fr.md
+        
+    - Application des connaissances: application_connaissances_fr.md
+    - English: http://understandingresearch.github.io/
+   
+theme:
+    name: mkdocs
+    custom_dir: custom_theme/ #the code in the custom_theme/main.html file is for overriding the prev/next buttons in the navigation of the template theme
+    #there are custom js libraries and a script for the cookie alert banner for gdpr
+    #do not replace the jquery.cookie.js file with the newer version because it won't work with the cookiecuttr gdpr overlay
+    
+extra_css: #this is also for the cookie notice banner
+    - css/cookiecuttr.css
+
+google_analytics: ['UA-158939469-2', 'comprendrelarecherche.github.io']
+   
+plugins:
+    - search:
+        lang: fr
+        
+    
+
+use_directory_urls: false #This setting is to prevent html referenced image links from breaking on non-Index pages. All page URLs will end in .html as a result
