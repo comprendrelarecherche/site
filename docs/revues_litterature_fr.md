@@ -1,8 +1,8 @@
-## Revues de la littérature
+# Revues de la littérature
 La recherche est basée sur les connaissances existantes et devrait combler les lacunes en matière de connaissances. Par conséquent, tout projet de recherche commence par ou est basé sur une **revue de la littérature**. Une revue de la littérature vise à résumer, combiner, analyser, commenter ou critiquer les publications existantes sur un sujet donné. 
 De nos jours, les revues de la littérature représentent une grande partie de la littérature scientifique publiée et consultée par la communauté scientifique et non scientifique. De plus, des revues systématiques sont utilisées pour permettre la prise de décisions fondées sur les meilleures données probantes disponibles. 
 
-#### Objectif de revues de la littérature
+## Objectif de revues de la littérature
 
 * Dessiner un portrait d'un sujet donné
 * Identifier les questions ou les aspects d'un sujet qui nécessitent plus de recherche (lacunes dans les connaissances)
@@ -11,7 +11,7 @@ De nos jours, les revues de la littérature représentent une grande partie de l
 * Se tenir au courant d'un sujet donné
 
 
-### Principaux types de revues de la littérature
+## Principaux types de revues de la littérature
 Il existe plusieurs types de revues de la littérature. Les deux principaux types sont traditionnels et systématiques.
 
 | Revue traditionnelle | Revue systématique |
@@ -27,7 +27,7 @@ Pour accroître la rigueur scientifique, les chercheurs se sont intéressés à 
 
 À l'autre extrême, il y a la revue systématique, qui est l'un des types de revues les plus rigoureux. Sa méthode est claire et diverses stratégies sont utilisées pour accroître la rigueur scientifique. 
 
-### Revue systématique
+## Revue systématique
 Une **revue systématique** est un type de revue de la littérature qui utilise des méthodes explicites et systématiques pour identifier, sélectionner, évaluer et analyser les études afin de répondre à une question spécifique. Les chercheurs feront des recherches dans différentes bases de données et autres sources pour s'assurer qu'ils trouvent toutes les études pertinentes. De plus, les critères de sélection seront très clairs et deux personnes participeront à toutes les étapes de la revue afin de minimiser tout biais de sélection. 
 
 
@@ -38,7 +38,7 @@ Caractéristiques d'une revue systématique :
 * Explicite
 * Complète
 
-#### Autres types de revues
+## Autres types de revues
 | | |
 | ------------- |-------------|
 | **Revue rapide** | Ce type de revue est produite pour les décideurs qui ont besoin d’une réponse rapide pour prendre des décisions. |
@@ -48,7 +48,7 @@ Caractéristiques d'une revue systématique :
 **Merci de nous aider à améliorer cette section en complétant <a href="https://forms.gle/mCutH1T6bLbAScNQ7" target="_blank">un court questionnaire</a>.**
 
 
-## Comment lire un article scientifique
+# Comment lire un article scientifique
 Le volume d'articles de recherche est en constante augmentation. Ils peuvent être organisés en trois grands groupes :
 
 * Recherche primaire : études originales
@@ -66,7 +66,7 @@ Début | Corps | Fin |
 | Résumé | Résultats | Financement |
 | Mots-clés | Discussion | |
 
-### Composantes d'un article de recherche
+## Composantes d'un article de recherche
 Dans le tableau suivant, chaque composante d'un article est expliquée :
 
 Composante | Explication |
@@ -89,7 +89,7 @@ La lecture d'un article peut prendre beaucoup de temps au début et nécessiter 
 
 **Merci de nous aider à améliorer cette section en complétant <a href="https://forms.gle/HGHS2Sb3QhtMvR7R7" target="_blank">un court questionnaire</a>.**
 
-### Ressources supplémentaires
+## Ressources supplémentaires
 * **<a href="https://www.youtube.com/watch?v=egJlW4vkb1Y" target="_blank">What are systematic reviews?</a>** : une vidéo de Cochrane expliquant pourquoi les revues systématiques sont importantes et comment elles sont effectuées. (en anglais) 
 
 * **<a href="https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b_5501628?guccounter=1" target="_blank">How to read and understand a scientific paper: A step-by-step guide for non-scientists</a>** : un article (en anglais)
